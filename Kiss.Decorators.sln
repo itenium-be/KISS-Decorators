@@ -5,6 +5,12 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiss.Decorators", "Kiss.Decorators\Kiss.Decorators.csproj", "{E78E442A-6DD2-4294-971F-616ACBDDBE0C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{12E972E1-7FC4-4573-A219-C596DAEE052A}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
